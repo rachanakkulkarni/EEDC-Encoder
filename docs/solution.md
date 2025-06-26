@@ -6,11 +6,11 @@ The EEDC algorithm is an enhanced version of the traditional Hamming Code and CR
 
 ### Flowchart of the Algorithm
 
-![Flowchart of the Algorithm](images/flowchart.png)
+![Flowchart of the Algorithm](../images/flowchart.png)
 
 ### Code Generator Architecture
 
-![Code Generator Architecture](images/architecture.png)
+![Code Generator Architecture](../images/architecture.png)
 
 ## Comparison with Traditional Methods
 
@@ -18,7 +18,7 @@ The EEDC method is compared with Hamming Code and CRC in terms of data rate and 
 
 ### Data Rate Comparison
 
-![Data Rate Comparison](images/data_rate_comparison.png)
+![Data Rate Comparison](../images/data_rate_comparison.png)
 
 ### Error Detection Performance
 
