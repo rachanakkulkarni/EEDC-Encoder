@@ -15,13 +15,4 @@ The EEDC algorithm is an enhanced version of the traditional Hamming Code and CR
 ## Comparison with Traditional Methods
 
 The EEDC method is compared with Hamming Code and CRC in terms of data rate and error detection performance.
-
-### Data Rate Comparison
-
-![Data Rate Comparison](../images/data_rate_comparison.png)
-
-### Error Detection Performance
-
-![Error Detection Performance](images/error_detection.png)
-
 From the comparisons, it is evident that EEDC offers a better balance between data rate and error detection capability.
