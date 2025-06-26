@@ -4,15 +4,15 @@
 
 ### Hamming Encoder
 
-![Hamming Waveform](images/hamming_waveform.png)
+![Hamming Waveform](../images/hamming_waveform.png)
 
 ### CRC Encoder
 
-![CRC Waveform](images/crc_waveform.png)
+![CRC Waveform](../images/crc_waveform.png)
 
 ### EEDC Encoder
 
-![EEDC Waveform](images/eedc_waveform.png)
+![EEDC Waveform](../images/eedc_waveform.png)
 
 ## Analysis
 
