@@ -23,8 +23,6 @@ Welcome to the EEDC Encoder project repository. This project focuses on implemen
 
 ## Images
 
-- [Flowchart of the Algorithm](images/flowchart.png)
-- [Code Generator Architecture](images/architecture.png)
-- [Data Rate Comparison](images/data_rate_comparison.png)
-- [Error Detection Performance](images/error_detection.png)
-- [Simulation Waveforms](images/hamming_waveform.png), [CRC Waveform](images/crc_waveform.png), [EEDC Waveform](images/eedc_waveform.png)
+- [Flowchart of the Algorithm](../images/flowchart.png)
+- [Code Generator Architecture](../images/architecture.png)
+- [Simulation Waveforms](../images/hamming_waveform.png), [CRC Waveform](../images/crc_waveform.png), [EEDC Waveform](../images/eedc_waveform.png)
